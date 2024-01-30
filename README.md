@@ -22,11 +22,23 @@ Detects abbreviations in the input text.
 
 
 Calculates precision, recall, F1 score, and accuracy metrics based on the extracted and expected phrases.
+
+
 #accuracy = number of correctly extracted instances/number of total instances
+
+
 #precision = concepts correctly identified/concepts identified total
+
+
 #recall = concepts correctly identified/gold standard concepts
+
+
 #F1-measure (also referred to as F1-score) is defined as a harmonic mean of these two measures:
+
+
 Fβ = (1 + β^2) × (precision × recall)/precision + recall , β = 1
+
+
 **5. User Input and Expected Results**
 
 
