@@ -1,9 +1,16 @@
 I have used the research paper having title "Exploring Natural Language Processing in Model-To-Model Transformations" which is uploaded in IEEE Xplore.
+
+
 **Functions**
+
+
 **1. extract_relation_phrases(text)**
+
+
 Extracts verb phrases, conjunctive phrases, disjunctive phrases, and noun phrases from the input text.
 
 **2. extract_noun_phrases(text)**
+
 Extracts noun phrases from the input text.
 
 **3. detect_abbreviations(text)**
